@@ -8,4 +8,6 @@ This repo contains papers which lie in several research areas related to the neg
 ## Negative Bipartite Graph 
 
 ## Negative links
-- Tyler Derr [Network Analysis with Negative links](https://dl.acm.org/doi/pdf/10.1145/3336191.3372188).
+- Tyler Derr. [Network Analysis with Negative links](https://dl.acm.org/doi/pdf/10.1145/3336191.3372188).
+## Convolutional Network
+- Tyler Derr. [Signed Graph Convolutional Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594922).
