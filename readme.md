@@ -18,3 +18,5 @@ This repo contains papers which lie in several research areas related to the neg
 ## Collaborative Filtering
 - Xiangnan He.[Neural Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3038912.3052569?casa_token=42uktvQDKKoAAAAA:kBEyVjXHAIv30_sXdMfwYj_tDVVhr3lozI1Ho_GR-8KVV3CYO3t0XJulXAjogmlhwHiVnL8R4Vc)
 - Xiang Wang.[Neural graph collaborative filtering](https://dl.acm.org/doi/pdf/10.1145/3331184.3331267?casa_token=PZhZWYFkQJMAAAAA:ysJIP5IowHLfbZFhaGsrx0GfhHQZY_lV3O-getVPXuEwnVXOzrowB7F5SZwFW_ufeG4LVjUHgLc)
+- Arkadiusz Paterek.[Improving regularized singular value decomposition for
+collaborative filtering](https://www.mimuw.edu.pl/~paterek/ap_kdd.pdf)
