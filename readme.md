@@ -20,3 +20,6 @@ This repo contains papers which lie in several research areas related to the neg
 - Xiang Wang.[Neural graph collaborative filtering](https://dl.acm.org/doi/pdf/10.1145/3331184.3331267?casa_token=PZhZWYFkQJMAAAAA:ysJIP5IowHLfbZFhaGsrx0GfhHQZY_lV3O-getVPXuEwnVXOzrowB7F5SZwFW_ufeG4LVjUHgLc)
 - Arkadiusz Paterek.[Improving regularized singular value decomposition for
 collaborative filtering](https://www.mimuw.edu.pl/~paterek/ap_kdd.pdf)
+- Rong Pan.[One-Class Collaborative Filtering](http://www.rongpan.net/publications/pan-oneclasscf.pdf)
+## Sampler
+- Jingtao Ding, Fuli Feng.[An Improved Sampler for Bayesian Personalized Ranking by Leveraging View Data∗](https://dl.acm.org/doi/pdf/10.1145/3184558.3186905?casa_token=mxUvXE-G0JQAAAAA:ylgC2c7zvbaeoPSgUFVHKDh-LGzw3AFjHXLKk_CzlEx4D46V0IqDg3MuRrlkVYeWj2iHkIT897Q1)
