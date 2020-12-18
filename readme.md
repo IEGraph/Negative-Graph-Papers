@@ -23,3 +23,7 @@ collaborative filtering](https://www.mimuw.edu.pl/~paterek/ap_kdd.pdf)
 - Rong Pan.[One-Class Collaborative Filtering](http://www.rongpan.net/publications/pan-oneclasscf.pdf)
 ## Sampler
 - Jingtao Ding, Fuli Feng.[An Improved Sampler for Bayesian Personalized Ranking by Leveraging View Data∗](https://dl.acm.org/doi/pdf/10.1145/3184558.3186905?casa_token=mxUvXE-G0JQAAAAA:ylgC2c7zvbaeoPSgUFVHKDh-LGzw3AFjHXLKk_CzlEx4D46V0IqDg3MuRrlkVYeWj2iHkIT897Q1)
+
+## Useful code
+
+https://github.com/CRIPAC-DIG/SR-GNN
