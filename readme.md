@@ -26,5 +26,5 @@ collaborative filtering](https://www.mimuw.edu.pl/~paterek/ap_kdd.pdf)
 
 ## Useful code
 
-https://github.com/CRIPAC-DIG/SR-GNN
-https://github.com/xiangwang1223/neural_graph_collaborative_filtering
+-https://github.com/CRIPAC-DIG/SR-GNN
+-https://github.com/xiangwang1223/neural_graph_collaborative_filtering
