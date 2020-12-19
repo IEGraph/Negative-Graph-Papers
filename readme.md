@@ -11,6 +11,7 @@ This repo contains papers which lie in several research areas related to the neg
 ## Negative links
 - Tyler Derr. [Network Analysis with Negative links](https://dl.acm.org/doi/pdf/10.1145/3336191.3372188).
 - Ladislav Peska. [Negative Implicit Feedback in E-commerce Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/2479787.2479800).
+- Wenjie Wang. [Denoising Implicit Feedback for Recommendation](https://arxiv.org/pdf/2006.04153.pdf).
 ## Convolutional Network
 - Tyler Derr, etc. [Signed Graph Convolutional Network](https://arxiv.org/pdf/1808.06354.pdf).
 - Qimai Li. [Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning](https://arxiv.org/pdf/1801.07606.pdf).
