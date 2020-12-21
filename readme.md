@@ -30,5 +30,6 @@ collaborative filtering](https://www.mimuw.edu.pl/~paterek/ap_kdd.pdf).
 - Hongyi Wen. [Leveraging Post-click Feedback for Content Recommendations](https://cornell-nyc-sdl-postclick-recsys.s3.amazonaws.com/paper.pdf).
 ## Useful code
 
--https://github.com/CRIPAC-DIG/SR-GNN
--https://github.com/xiangwang1223/neural_graph_collaborative_filtering
+- https://github.com/CRIPAC-DIG/SR-GNN
+- https://github.com/xiangwang1223/neural_graph_collaborative_filtering
+- https://github.com/hpclab/rankeval/blob/master/rankeval/metrics/map.py
