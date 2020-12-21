@@ -12,6 +12,8 @@ This repo contains papers which lie in several research areas related to the neg
 - Tyler Derr. [Network Analysis with Negative links](https://dl.acm.org/doi/pdf/10.1145/3336191.3372188).
 - Ladislav Peska. [Negative Implicit Feedback in E-commerce Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/2479787.2479800).
 - Wenjie Wang. [Denoising Implicit Feedback for Recommendation](https://arxiv.org/pdf/2006.04153.pdf).
+- Aston Zhang，Amit Goyal. [adaQAC: Adaptive Query Auto-Completion via Implicit Negative Feedback](http://seclab.illinois.edu/wp-content/uploads/2015/05/Zhang-15.pdf).
+- Evgeny Frolov. van Oseledets. [Fifty Shades of Ratings: How to Benefit from a Negative Feedback in Top-N Recommendations Tasks](https://arxiv.org/pdf/1607.04228.pdf)
 ## Convolutional Network
 - Tyler Derr, etc. [Signed Graph Convolutional Network](https://arxiv.org/pdf/1808.06354.pdf).
 - Qimai Li. [Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning](https://arxiv.org/pdf/1801.07606.pdf).
@@ -20,11 +22,12 @@ This repo contains papers which lie in several research areas related to the neg
 - Xiangnan He.[Neural Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3038912.3052569?casa_token=42uktvQDKKoAAAAA:kBEyVjXHAIv30_sXdMfwYj_tDVVhr3lozI1Ho_GR-8KVV3CYO3t0XJulXAjogmlhwHiVnL8R4Vc)
 - Xiang Wang.[Neural graph collaborative filtering](https://dl.acm.org/doi/pdf/10.1145/3331184.3331267?casa_token=PZhZWYFkQJMAAAAA:ysJIP5IowHLfbZFhaGsrx0GfhHQZY_lV3O-getVPXuEwnVXOzrowB7F5SZwFW_ufeG4LVjUHgLc)
 - Arkadiusz Paterek.[Improving regularized singular value decomposition for
-collaborative filtering](https://www.mimuw.edu.pl/~paterek/ap_kdd.pdf)
-- Rong Pan.[One-Class Collaborative Filtering](http://www.rongpan.net/publications/pan-oneclasscf.pdf)
+collaborative filtering](https://www.mimuw.edu.pl/~paterek/ap_kdd.pdf).
+- Rong Pan.[One-Class Collaborative Filtering](http://www.rongpan.net/publications/pan-oneclasscf.pdf).
 ## Sampler
-- Jingtao Ding, Fuli Feng.[An Improved Sampler for Bayesian Personalized Ranking by Leveraging View Data∗](https://dl.acm.org/doi/pdf/10.1145/3184558.3186905?casa_token=mxUvXE-G0JQAAAAA:ylgC2c7zvbaeoPSgUFVHKDh-LGzw3AFjHXLKk_CzlEx4D46V0IqDg3MuRrlkVYeWj2iHkIT897Q1)
-
+- Jingtao Ding, Fuli Feng.[An Improved Sampler for Bayesian Personalized Ranking by Leveraging View Data∗](https://dl.acm.org/doi/pdf/10.1145/3184558.3186905?casa_token=mxUvXE-G0JQAAAAA:ylgC2c7zvbaeoPSgUFVHKDh-LGzw3AFjHXLKk_CzlEx4D46V0IqDg3MuRrlkVYeWj2iHkIT897Q1).
+## Content-based
+- Hongyi Wen. [Leveraging Post-click Feedback for Content Recommendations](https://cornell-nyc-sdl-postclick-recsys.s3.amazonaws.com/paper.pdf).
 ## Useful code
 
 -https://github.com/CRIPAC-DIG/SR-GNN
